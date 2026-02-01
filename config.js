@@ -34,15 +34,15 @@ const CONFIG = {
     },
     third: {
       text: "Will you be my Valentine on February 14th, 2026 (and hopefully forever)? 🌹", // The big question!
-      yesBtn: "Yes! Of course!", // Text for "Yes" button
-      noBtn: "No", // Text for "No" button
+      yesBtn: "DUH!", // Text for "Yes" button
+      noBtn: "Naur", // Text for "No" button
     },
   },
 
   // Love meter messages
   // They show up depending on how far they slide the meter
   loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝", // Shows when they go past 5000%
+    extreme: "WHOOOAA mama, you love me that much?? 🥰🚀💝", // Shows when they go past 5000%
     high: "To infinity and beyond! 🚀💝", // Shows when they go past 1000%
     normal: "And beyond! 🥰", // Shows when they go past 100%
   },
@@ -50,8 +50,8 @@ const CONFIG = {
   // Messages that appear after they say "Yes!"
   celebration: {
     title:
-      "Yay! I'm the luckiest woman in the world! (You still show me everyday why you're a beautiful human being, you deserve more, which is what I plan to give you for as long as you'll have me) 🎉💝💖💝💓",
-    message: "Now come get your gift, a big warm hug and a huge kiss!",
+      "Yay! I'm the luckiest woman in the world! You still show me everyday why you're a beautiful human being. You deserve the best, which is what I plan to give you for as long as you'll have me) 🎉💝💖💝💓",
+    message: "Now look up and see your gifts!",
     emojis: "🎁💖🤗💝💋❤️💕", // These will bounce around
   },
 
